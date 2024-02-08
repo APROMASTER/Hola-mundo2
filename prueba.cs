@@ -2,6 +2,6 @@ class prueba
 {
     public void ImprimirHolaMundo()
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hola Devops");
     }
 }
